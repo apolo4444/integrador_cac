@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"integrador_cac"},
+{"type":"table","name":"oradores","database":"integrador_cac","data":
+[
+{"id_orador":"1","Nombre":"Matias","Apellido":"Lasorsa","mail":"matiaslasorsa@gmail.com","Tema":"Educación, Medio Ambiente e Higiene y Seguridad en el Trabajo ","fecha_alta":"2023-11-15 20:07:49"},
+{"id_orador":"2","Nombre":"Antonella","Apellido":"Lasorsa","mail":"antonella@gmail.com","Tema":"Educación y Tecnología aplicada en las artes visuales.  ","fecha_alta":"2023-11-29 20:07:49"},
+{"id_orador":"3","Nombre":"Ramiro ","Apellido":"Lasorsa","mail":"ramiro@gmail.com","Tema":"Inteligencia Artificial aplicada en la vida cotidiana. ","fecha_alta":"2023-12-01 20:10:56"},
+{"id_orador":"4","Nombre":"Luciano","Apellido":"Lasorsa","mail":"luciano@gmail.com","Tema":"Comercio y Tecnología, las nuevas relaciones comerciales.","fecha_alta":"2023-12-05 20:10:56"},
+{"id_orador":"5","Nombre":"Ana","Apellido":"Muzlera","mail":"ana@gmail.com","Tema":"Introducción al Compostaje","fecha_alta":"2023-12-02 20:14:17"},
+{"id_orador":"6","Nombre":"Adriana ","Apellido":"Rosso","mail":"adriana@gmail.com","Tema":"Residuos de Oxido de Etileno en material biomédico ","fecha_alta":"2023-12-04 20:14:17"},
+{"id_orador":"7","Nombre":"Liliana","Apellido":"Furchi","mail":"liliana@gmail.com","Tema":"Salud y Modernidad","fecha_alta":"2023-12-06 20:19:25"},
+{"id_orador":"8","Nombre":"Monica","Apellido":"Furchi","mail":"monica@gmail.com","Tema":"Diseño y Decoración de Interiores. ","fecha_alta":"2023-11-09 20:19:25"},
+{"id_orador":"9","Nombre":"Juan","Apellido":"Ciano","mail":"juan@gmail.com","Tema":"Proceso de Potabilización de Agua en AySA","fecha_alta":"2023-12-07 20:22:42"},
+{"id_orador":"10","Nombre":"Lucio","Apellido":"Ponzoni","mail":"lucio@gmail.com","Tema":"Mecánica de los Fluidos","fecha_alta":"2023-12-08 20:22:42"}
+]
+}
+]
